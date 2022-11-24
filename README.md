@@ -1,13 +1,12 @@
-# AIDD-LAIDD
-## Learn by Coding 
-- Data Handling
-- Molecule Representation
-- Machine Learning
-- Deep Learning
-- Graph Neural Network
-- Virtual Screening
-- Generative Model-VAE
-- Generative Model-GAN
+## Basic Machine Learning for Drug Discovery
+- Data Handling (z1)
+- Molecule Representation (z2)
+- Machine Learning (z3)
+- Deep Learning (z4)
+- Graph Neural Network (z5)
+- Virtual Screening (z6)
+- Generative Model-VAE (z7, z8, z9)
+- Generative Model-GAN (z10, z11) 
 
 ## Introduction
 [Machine Learning](https://github.com/StillWork/AIDD-LAIDD/blob/main/AIDD-LAIDD-ML.pdf)
