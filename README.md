@@ -1,6 +1,5 @@
 # AIDD-LAIDD
 ## Learn by Coding 
-
 - Data Handling
 - Molecule Representation
 - Machine Learning
