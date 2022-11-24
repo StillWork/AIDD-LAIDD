@@ -1,4 +1,4 @@
-## Basic Machine Learning for Drug Discovery
+## Machine Learning for Drug Discovery
 - Data Handling (z1)
 - Molecule Representation (z2)
 - Machine Learning (z3)
@@ -8,7 +8,9 @@
 - Generative Model-VAE (z7, z8, z9)
 - Generative Model-GAN (z10, z11) 
 
-## Introduction
+## ppt
+[Introduction](https://github.com/StillWork/AIDD-LAIDD/blob/main/AIDD-LAIDD-Intro.pdf)
+
 [Machine Learning](https://github.com/StillWork/AIDD-LAIDD/blob/main/AIDD-LAIDD-ML.pdf)
 
 [Deep Learning](https://github.com/StillWork/AIDD-LAIDD/blob/main/AIDD-LAIDD-DL.pdf)  
