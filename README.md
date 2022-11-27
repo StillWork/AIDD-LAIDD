@@ -5,8 +5,8 @@
 - Deep Learning (z4)
 - Graph Neural Network (z5)
 - Virtual Screening (z6)
-- Generative Model-VAE (z7, z8, z9)
-- Generative Model-GAN (z10, z11) 
+- Generative Model-VAE (z7, z8)
+- Generative Model-GAN (z9, z10) 
 
 ## ppt
 [Introduction](https://github.com/StillWork/AIDD-LAIDD/blob/main/AIDD-LAIDD-Intro.pdf)
